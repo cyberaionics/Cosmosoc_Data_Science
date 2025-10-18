@@ -1,4 +1,5 @@
-# Welcome to exploration of the voyage. I am Ranger of Danger, your guide. So, our research vessel is on its first voyage to capture various space phenomena and sends us the observations in FITS (Flexible Image Transport System) format. I have created a python script to convert the .fits file to .jpeg file.
+# Solution to the first Problem
+<h2>Welcome to exploration of the voyage. I am Ranger of Danger, your guide. So, our research vessel is on its first voyage to capture various space phenomena and sends us the observations in FITS (Flexible Image Transport System) format. I have created a python script to convert the .fits file to .jpeg file.</h2>
 
 <h2>To run it, just follow the instructions:</h2>
 <ol>Go to the directory containing the script and download the fits files there.</ol> 

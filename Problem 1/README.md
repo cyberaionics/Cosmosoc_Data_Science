@@ -1,6 +1,6 @@
 # Solution to the first Problem
 <h2>Welcome to exploration of the voyage. I am Ranger of Danger, your guide. So, our research vessel is on its first voyage to capture various space phenomena and sends us the observations in FITS (Flexible Image Transport System) format. I have created a python script to convert the .fits file to .jpeg file.</h2>
-<h3>BTW both the Image1 and Image2 have the same pictures in different colormaps, 1 in classic nipy_spectral and 2 in inferno</h3>
+<h3>BTW both the Image1 and Image2 have the same pictures in different colormaps, 1 in classic nipy_spectral, 2 in inferno and 3 in Grayscale</h3>
 <h4>To run it, just follow the instructions:</h4>
 <ol>Go to the directory containing the script and download the fits files there.</ol> 
 <ol>Open the folder in termnial</ol> 

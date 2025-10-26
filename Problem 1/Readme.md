@@ -17,7 +17,7 @@ The picture shows a central galaxy surrounded by numerous foreground and backgro
 It is a picture of classic, large face-on spiral galaxy.
 
 # In the 7th FITS file, 
-The picture is a large, diffuse object, most likely a supernova remnant (the expanding shell of an exploded star) or a planetary nebula.
+The picture is a large, diffuse object, most likely a supernova remnant or a planetary nebula.
 
 # In the 8th FITS file, 
 The image shows clear image of an edge-on disk galaxy. You can see the bright central bulge and the flat disk, which is bisected by a dark dust lane.

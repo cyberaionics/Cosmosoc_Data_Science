@@ -4,4 +4,4 @@ The teamname notebook cleaning.ipynb contains the raw code of the cleaning algor
 
 ## Incase you want to run it directly, 
 go to the virtual environment, and run: <b>pip install -r requirements.txt</b>
-and then run the command: <b>python Gradient_Descenders_Clean.py && python Gradient_Descenders_ML.py</b>
+and then run the command: <b>python Gradient_Descenders_Clean.py</b>
